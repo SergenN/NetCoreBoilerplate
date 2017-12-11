@@ -1,0 +1,11 @@
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\bin\Debug\netcoreapp2.0\NetCoreBoilerplate.deps.json
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\bin\Debug\netcoreapp2.0\NetCoreBoilerplate.runtimeconfig.json
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\bin\Debug\netcoreapp2.0\NetCoreBoilerplate.runtimeconfig.dev.json
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\bin\Debug\netcoreapp2.0\NetCoreBoilerplate.dll
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\bin\Debug\netcoreapp2.0\NetCoreBoilerplate.pdb
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\obj\Debug\netcoreapp2.0\NetCoreBoilerplate.csprojResolveAssemblyReference.cache
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\obj\Debug\netcoreapp2.0\NetCoreBoilerplate.csproj.CoreCompileInputs.cache
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\obj\Debug\netcoreapp2.0\NetCoreBoilerplate.AssemblyInfoInputs.cache
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\obj\Debug\netcoreapp2.0\NetCoreBoilerplate.AssemblyInfo.cs
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\obj\Debug\netcoreapp2.0\NetCoreBoilerplate.dll
+C:\Users\serge\RiderProjects\NetCoreBoilerplate\NetCoreBoilerplate\obj\Debug\netcoreapp2.0\NetCoreBoilerplate.pdb

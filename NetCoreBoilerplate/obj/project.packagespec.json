@@ -1,0 +1,41 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\serge\\RiderProjects\\NetCoreBoilerplate\\NetCoreBoilerplate\\NetCoreBoilerplate.csproj",
+    "projectName": "NetCoreBoilerplate",
+    "projectPath": "C:\\Users\\serge\\RiderProjects\\NetCoreBoilerplate\\NetCoreBoilerplate\\NetCoreBoilerplate.csproj",
+    "outputPath": "C:\\Users\\serge\\RiderProjects\\NetCoreBoilerplate\\NetCoreBoilerplate\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
