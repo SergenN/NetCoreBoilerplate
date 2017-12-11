@@ -18,9 +18,9 @@ namespace NetCoreBoilerplate.Controllers
         private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IEmailSender _emailSender;
         private readonly ILogger _logger;
-        private readonly AuthService _authService;
+        private readonly IAuthService _authService;
 
-        public AuthController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, IEmailSender emailSender, ILoggerFactory loggerFactory, AuthService authService)
+        public AuthController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, IEmailSender emailSender, ILoggerFactory loggerFactory, IAuthService authService)
         {
             _userManager = userManager;
             _emailSender = emailSender;
@@ -30,7 +30,7 @@ namespace NetCoreBoilerplate.Controllers
         }
         
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] AuthenticateModel model)
+        public async Task<IActionResult> Login(AuthenticateModel model)
         {
             if (!ModelState.IsValid)
             {
@@ -50,7 +50,7 @@ namespace NetCoreBoilerplate.Controllers
         }
        
         [HttpPost("register")]
-        public async Task<object> Register([FromBody] RegisterModel model)
+        public async Task<object> Register(RegisterModel model)
         {
             if (!ModelState.IsValid)
             {
